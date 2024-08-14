@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\models\\viewmodels\\userrolesmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:models\\viewmodels\\userrolesmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221422_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813221422_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\migrations\\20240813221422_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:migrations\\20240813221422_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221512_Libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813221512_Libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221502_Autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813221502_Autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221141_Libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813221141_Libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221101_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813221101_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\bibliotecawebapplicationmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:bibliotecawebapplicationmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|c:\\users\\aprendiz\\desktop\\06\\bibliotecawebapplicationmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CD23FD-8801-455D-AD1F-8B7F1A23AFA4}|BibliotecaWebApplicationMvc.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T22:37:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:29:43.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:29:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:24:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240813221422_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221422_initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813221422_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221422_initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240813221422_initial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:17:16.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:16:52.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "Controllers\\UserRolesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:08:10.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:29:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\UserRoles\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserRoles\\index.cshtml",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\UserRoles\\index.cshtml",
+              "RelativeToolTip": "Views\\UserRoles\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:16:50.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:16:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRolesModels.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Models\\ViewModels\\UserRolesModels.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\UserRolesModels.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Models\\ViewModels\\UserRolesModels.cs",
+              "RelativeToolTip": "Models\\ViewModels\\UserRolesModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:15:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240813221512_Libros.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221512_Libros.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813221512_Libros.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221512_Libros.cs",
+              "RelativeToolTip": "Migrations\\20240813221512_Libros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:15:12.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240813221502_Autores.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221502_Autores.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813221502_Autores.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221502_Autores.cs",
+              "RelativeToolTip": "Migrations\\20240813221502_Autores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:15:02.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:16:36.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:19:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240813221422_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221422_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813221422_initial.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221422_initial.cs",
+              "RelativeToolTip": "Migrations\\20240813221422_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:14:22.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Models\\Autor.cs",
+              "RelativeToolTip": "Models\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:13:05.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240813221141_Libros.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221141_Libros.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813221141_Libros.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221141_Libros.cs",
+              "RelativeToolTip": "Migrations\\20240813221141_Libros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:11:41.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:11:12.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240813221101_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221101_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813221101_initial.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Migrations\\20240813221101_initial.cs",
+              "RelativeToolTip": "Migrations\\20240813221101_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:11:01.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:09:57.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BibliotecaWebApplicationMvc",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\BibliotecaWebApplicationMvc.csproj",
+              "RelativeDocumentMoniker": "BibliotecaWebApplicationMvc.csproj",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\06\\bibliotecaWebApplicationMvc\\BibliotecaWebApplicationMvc.csproj",
+              "RelativeToolTip": "BibliotecaWebApplicationMvc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T22:09:12.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
