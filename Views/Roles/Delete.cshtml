@@ -1,0 +1,39 @@
+﻿@model BibliotecaWebApplicationMvc.Models.ViewModels.RoleViewModel
+
+@{
+    ViewData["Title"] = "Eliminar Rol";
+}
+
+<h1>Eliminar Rol</h1>
+
+<p>¿Estás seguro que deseas eliminar el rol "@Model.Name"?</p>
+
+<form id="deleteForm" asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteConfirmationModal">Eliminar</button>
+
+    <div class="modal fade" id="deleteConfirmationModal" tabindex="-1" aria-labelledby="deleteConfirmationModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="deleteConfirmationModalLabel">Confirmar eliminación</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    ¿Estás seguro de que deseas eliminar este rol?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-danger" id="confirmDeleteButton">Eliminar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<script>
+    document.getElementById('confirmDeleteButton').addEventListener('click', function () {
+        // Aquí puedes agregar lógica adicional si es necesario
+        document.getElementById('deleteForm').submit();
+    });
+</script>

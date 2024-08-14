@@ -1,0 +1,86 @@
+﻿@model IEnumerable<BibliotecaWebApplicationMvc.Models.ViewModels.RoleViewModel>
+
+    @{
+        ViewData["Title"] = "Roles";
+    }
+
+    <h1>Roles:</h1>
+
+    <p>
+        <a class="btn btn-primary" asp-action="Create">Crear Rol</a>
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                        <button type="button" class="btn btn-danger delete-role-button" data-bs-toggle="modal" data-bs-target="#deleteConfirmationModal" data-role-id="@item.Id">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="modal fade" id="deleteConfirmationModal" tabindex="-1" aria-labelledby="deleteConfirmationModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="deleteConfirmationModalLabel">Confirmar eliminación</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    ¿Estás seguro de que deseas eliminar este rol?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-danger confirm-delete" id="confirmDeleteButton">Eliminar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Select all buttons with class "delete-role-button"
+        const deleteButtons = document.querySelectorAll('.delete-role-button');
+
+        deleteButtons.forEach(function (button) {
+            button.addEventListener('click', function () {
+                roleIdToDelete = this.getAttribute('data-role-id');
+            });
+        });
+
+        // Select the confirm delete button (assuming it has class "confirm-delete")
+        const confirmDeleteButton = document.querySelector('.confirm-delete');
+
+        confirmDeleteButton.addEventListener('click', function () {
+            if (roleIdToDelete) {
+                var form = document.createElement('form');
+                form.method = 'post';
+                form.action = `/Roles/Delete/${roleIdToDelete}`;
+
+                var token = document.querySelector('input[name="__RequestVerificationToken"]').value;
+                var inputToken = document.createElement('input');
+                inputToken.type = 'hidden';
+                inputToken.name = '__RequestVerificationToken';
+                inputToken.value = token;
+
+                form.appendChild(inputToken);
+                document.body.appendChild(form);
+                form.submit();
+            }
+        });
+    </script>
